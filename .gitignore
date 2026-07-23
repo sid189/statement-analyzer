@@ -1,0 +1,12 @@
+# Cache of raw SEC responses — never commit
+data/cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+.venv/
+venv/

@@ -1,0 +1,287 @@
+{
+  "phase1": {
+    "AAPL": {
+      "entity_name": "Apple Inc.",
+      "cik": "0000320193",
+      "concept_count": 503,
+      "years_available": 17
+    },
+    "MSFT": {
+      "entity_name": "MICROSOFT CORPORATION",
+      "cik": "0000789019",
+      "concept_count": 544,
+      "years_available": 16
+    },
+    "WMT": {
+      "entity_name": "WALMART INC.",
+      "cik": "0000104169",
+      "concept_count": 478,
+      "years_available": 17
+    },
+    "JNJ": {
+      "entity_name": "Johnson & Johnson",
+      "cik": "0000200406",
+      "concept_count": 609,
+      "years_available": 16
+    },
+    "KO": {
+      "entity_name": "COCA COLA CO",
+      "cik": "0000021344",
+      "concept_count": 724,
+      "years_available": 17
+    }
+  },
+  "phase2": [
+    {
+      "fy": 2010,
+      "revenue_b": 65.225,
+      "net_income_b": 14.013
+    },
+    {
+      "fy": 2011,
+      "revenue_b": 108.249,
+      "net_income_b": 25.922
+    },
+    {
+      "fy": 2012,
+      "revenue_b": 156.508,
+      "net_income_b": 41.733
+    },
+    {
+      "fy": 2013,
+      "revenue_b": 170.91,
+      "net_income_b": 37.037
+    },
+    {
+      "fy": 2014,
+      "revenue_b": 182.795,
+      "net_income_b": 39.51
+    },
+    {
+      "fy": 2015,
+      "revenue_b": 233.715,
+      "net_income_b": 53.394
+    },
+    {
+      "fy": 2016,
+      "revenue_b": 215.639,
+      "net_income_b": 45.687
+    },
+    {
+      "fy": 2017,
+      "revenue_b": 229.234,
+      "net_income_b": 48.351
+    },
+    {
+      "fy": 2018,
+      "revenue_b": 265.595,
+      "net_income_b": 59.531
+    },
+    {
+      "fy": 2019,
+      "revenue_b": 260.174,
+      "net_income_b": 55.256
+    },
+    {
+      "fy": 2020,
+      "revenue_b": 274.515,
+      "net_income_b": 57.411
+    },
+    {
+      "fy": 2021,
+      "revenue_b": 365.817,
+      "net_income_b": 94.68
+    },
+    {
+      "fy": 2022,
+      "revenue_b": 394.328,
+      "net_income_b": 99.803
+    },
+    {
+      "fy": 2023,
+      "revenue_b": 383.285,
+      "net_income_b": 96.995
+    },
+    {
+      "fy": 2024,
+      "revenue_b": 391.035,
+      "net_income_b": 93.736
+    },
+    {
+      "fy": 2025,
+      "revenue_b": 416.161,
+      "net_income_b": 112.01
+    }
+  ],
+  "phase3": [
+    {
+      "fy": 2011,
+      "re_delta_b": null
+    },
+    {
+      "fy": 2012,
+      "re_delta_b": null
+    },
+    {
+      "fy": 2013,
+      "re_delta_b": -23.542
+    },
+    {
+      "fy": 2014,
+      "re_delta_b": -45.583
+    },
+    {
+      "fy": 2015,
+      "re_delta_b": -36.701
+    },
+    {
+      "fy": 2016,
+      "re_delta_b": -29.457
+    },
+    {
+      "fy": 2017,
+      "re_delta_b": -33.616
+    },
+    {
+      "fy": 2018,
+      "re_delta_b": -73.749
+    },
+    {
+      "fy": 2019,
+      "re_delta_b": -65.639
+    },
+    {
+      "fy": 2020,
+      "re_delta_b": -74.262
+    },
+    {
+      "fy": 2021,
+      "re_delta_b": -89.617
+    },
+    {
+      "fy": 2022,
+      "re_delta_b": -93.592
+    },
+    {
+      "fy": 2023,
+      "re_delta_b": -79.116
+    },
+    {
+      "fy": 2024,
+      "re_delta_b": -97.442
+    },
+    {
+      "fy": 2025,
+      "re_delta_b": -91.699
+    }
+  ],
+  "phase4": [
+    {
+      "fy": 2011,
+      "roe": 0.41673231194636917,
+      "ccc": -51.96113024145781
+    },
+    {
+      "fy": 2012,
+      "roe": 0.42841524445014756,
+      "ccc": -52.12772512351672
+    },
+    {
+      "fy": 2013,
+      "roe": 0.30639603903060486,
+      "ccc": -44.50440899430807
+    },
+    {
+      "fy": 2014,
+      "roe": 0.3361180113655698,
+      "ccc": -48.64034436502655
+    },
+    {
+      "fy": 2015,
+      "roe": 0.4624819187360872,
+      "ccc": -52.97104126966237
+    },
+    {
+      "fy": 2016,
+      "roe": 0.3690328104554046,
+      "ccc": -67.28997626766463
+    },
+    {
+      "fy": 2017,
+      "roe": 0.3686750846372038,
+      "ccc": -69.68564003200605
+    },
+    {
+      "fy": 2018,
+      "roe": 0.4936358284202758,
+      "ccc": -73.55782321208311
+    },
+    {
+      "fy": 2019,
+      "roe": 0.5591722113998027,
+      "ccc": -73.76226393884951
+    },
+    {
+      "fy": 2020,
+      "roe": 0.7368556155223421,
+      "ccc": -60.54045251607811
+    },
+    {
+      "fy": 2021,
+      "roe": 1.4744333444938449,
+      "ccc": -52.89854190342261
+    },
+    {
+      "fy": 2022,
+      "roe": 1.7545929220653644,
+      "ccc": -62.43504964002866
+    },
+    {
+      "fy": 2023,
+      "roe": 1.7194951160275842,
+      "ccc": -70.92247700216251
+    },
+    {
+      "fy": 2024,
+      "roe": 1.5741250755692886,
+      "ccc": -72.97163939376222
+    },
+    {
+      "fy": 2025,
+      "roe": 1.7142244974480232,
+      "ccc": -71.8217801776662
+    }
+  ],
+  "phase5": [
+    {
+      "ticker": "AAPL",
+      "fy": 2025,
+      "re_delta_b": -91.699,
+      "re_delta_pct_of_net_income": -81.86679760735649
+    },
+    {
+      "ticker": "MSFT",
+      "fy": 2025,
+      "re_delta_b": -13.163,
+      "re_delta_pct_of_net_income": -12.926192159635477
+    },
+    {
+      "ticker": "WMT",
+      "fy": 2026,
+      "re_delta_b": -7.925,
+      "re_delta_pct_of_net_income": -36.19878499977162
+    },
+    {
+      "ticker": "JNJ",
+      "fy": 2025,
+      "re_delta_b": -1.236,
+      "re_delta_pct_of_net_income": -4.6112520519325475
+    },
+    {
+      "ticker": "KO",
+      "fy": 2025,
+      "re_delta_b": 0.0,
+      "re_delta_pct_of_net_income": 0.0
+    }
+  ]
+}
